@@ -40,7 +40,7 @@ $ bothub channel add telegram --api-key=<my-api-key>
 
 ## Usage
 
-Add property:
+Add property for keyboard usage:
 
 ex)
 ````
