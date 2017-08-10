@@ -46,6 +46,7 @@ ex)
 ````
 $ bothub property set keyboard Question1,Question2,Question3,Question4
 $ bothub property set Question1 "{'answer': 'Answer 1', 'title': 'Go Answer1', 'link': 'http://www.example.com/answer1'}"
+$ bothub property set Question2 "{'answer': 'Answer 2', 'title': 'Go Answer2', 'link': 'http://www.example.com/answer2'}"
 ````
 
 
